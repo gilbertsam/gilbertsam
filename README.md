@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gilbertsam
-- 👀 I’m interested in Data Analyst and Visualisation
-- 🌱 I’m currently learning modeling and machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science anda Data Analyst
+- Now I'm still learn in Machine Learning and Deep Learning 
 
 <!---
 gilbertsam/gilbertsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
